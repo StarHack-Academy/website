@@ -14,7 +14,7 @@
 - SITCON 2020 講者 - 爆肝為高中生舉辦程式競賽是不是吃錯藥了呢
 - SITCON 2021 講者 - 關於 CTF 的那些事
 - HITCON 2022 講者 - 當健保卡元件成為駭客的任意門
-- HITCON 2023 - Firewall is on fire: Hacking the Juniper Firewall
+- HITCON 2023 講者 - Firewall is on fire: Hacking the Juniper Firewall
 - AIS3 2022 軟體安全助教
 - AIS3 2023 軟體安全助教
 
