@@ -137,35 +137,34 @@ section.content {
     display: block;
     color: #000;
     padding: 2rem 0;
-}
 
-/* 1,3,5.. background gray */
-
-section.content:nth-child(odd) {
+    /* 1,3,5.. background gray */
+    &:nth-child(odd) {
         background-color: #eee;
     }
 
-section.content:nth-child(even) {
+    &:nth-child(even) {
         background-color: #fff;
     }
 
-section.content .wrap {
+
+
+    .wrap {
         display: inline-block;
         padding: 0 8rem;
         margin: 0 auto;
         width: 100%;
         max-width: -moz-available;
         max-width: -webkit-fill-available;
-    }
 
-section.content .wrap.scroll {
+        &.scroll {
             text-align: center;
             overflow-x: scroll;
             white-space: nowrap;
             scrollbar-width: none;
         }
 
-section.content .wrap .title {
+        .title {
             font-family: 'HunInn', sans-serif;
             font-size: 2rem;
             font-weight: 500;
@@ -174,14 +173,12 @@ section.content .wrap .title {
             padding-bottom: .5rem;
         }
 
-/* meida */
-
-@media screen and (max-width: 768px) {
-
-section.content .wrap {
-            padding: 1rem 2rem
-    }
+        /* meida */
+        @media screen and (max-width: 768px) {
+            padding: 1rem 2rem;
         }
+    }
+}
 
 
 
@@ -193,11 +190,9 @@ section.content .wrap {
     margin: 0 auto;
     padding: 0;
     width: 100%;
-}
 
 
-
-.cards .card {
+    .card {
         cursor: pointer;
         /* position: relative; */
         display: flex;
@@ -210,19 +205,14 @@ section.content .wrap {
         border-radius: 0.5rem;
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
         transition: all 0.3s ease-in-out;
-    }
 
-
-
-.cards .card:hover {
+        &:hover {
             transform: scale(1.05);
             box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
             z-index: 10000;
         }
 
-
-
-.cards .card .card__title {
+        .card__title {
             font-family: 'HunInn', sans-serif;
             font-size: 1.5rem;
             /* font-weight: 500; */
@@ -235,9 +225,7 @@ section.content .wrap {
             border-bottom: 1px solid #111;
         }
 
-
-
-.cards .card .card__description {
+        .card__description {
             font-size: 1rem;
             font-weight: 300;
             margin: 0px;
@@ -245,9 +233,7 @@ section.content .wrap {
             color: #111;
         }
 
-
-
-.cards .card .card__tag {
+        .card__tag {
             position: absolute;
             top: 0;
             left: 0;
@@ -262,6 +248,8 @@ section.content .wrap {
             box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
             z-index: 1000;
         }
+    }
+}
 
 .lecturer {
     font-family: 'HunInn', sans-serif;
@@ -273,9 +261,7 @@ section.content .wrap {
     text-align: center;
     padding: 1.5rem;
 
-}
-
-.lecturer img {
+    img {
         width: 200px;
         cursor: pointer;
         border-radius: 50%;
@@ -283,7 +269,7 @@ section.content .wrap {
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
     }
 
-.lecturer .lecturer__name {
+    .lecturer__name {
         display: block;
         font-size: 1.5rem;
         font-weight: 500;
@@ -292,7 +278,7 @@ section.content .wrap {
         color: #111;
     }
 
-.lecturer .lecturer__description {
+    .lecturer__description {
         display: block;
         font-size: 1rem;
         font-weight: 300;
@@ -301,10 +287,14 @@ section.content .wrap {
         color: #111;
     }
 
-.lecturer:hover img {
+    &:hover {
+        img {
             transform: scale(1.05);
             box-shadow: 0 0 2rem rgba(0, 0, 0, 0.4);
         }
+    }
+
+}
 
 
 
@@ -317,15 +307,12 @@ section.content .wrap {
     margin: auto;
     justify-content: center;
 
-}
-@media screen and (max-width: 900px) {
-.timeline {
+    @media screen and (max-width: 900px) {
         overflow: scroll;
-        justify-content: start
-
-}
+        justify-content: start;
     }
-.timeline .circle {
+
+    .circle {
         width: 100%;
         height: 45px;
         text-align: left;
@@ -340,15 +327,17 @@ section.content .wrap {
         /* skew div */
         transform: skew(-10deg);
         border-left: 1px solid #fff;
-    }
-.timeline .circle p {
+
+        p {
             font-weight: 500;
             margin: auto;
             font-size: 20px;
             line-height: 45px;
             color: #ffffff;
         }
-.timeline .link {
+    }
+
+    .link {
         z-index: 0;
         background-color: rgb(36, 43, 115);
         padding: 0;
@@ -358,7 +347,8 @@ section.content .wrap {
         margin-top: -22.5px;
         margin-left: 5px;
     }
-.timeline .square {
+
+    .square {
         text-align: center;
         /* vertical align text in square */
 
@@ -380,28 +370,36 @@ section.content .wrap {
         z-index: 2;
         position: relative;
         margin: .5rem 0;
-    }
-.timeline .square.up~.link {
+
+
+        &.up~.link {
             margin-bottom: 30px;
         }
-.timeline .square.down~.link {
+
+        &.down~.link {
             margin-top: 30px;
         }
-.timeline .square.blank {
+
+        &.blank {
             visibility: hidden;
         }
-.timeline .square h3 {
+
+        h3 {
             font-size: 20px;
             font-weight: 500;
             margin: 0;
             padding-bottom: .5rem;
         }
-.timeline .square p {
+
+        p {
             padding: 0;
             margin: 0;
             width: 100%;
             font-size: 16px;
         }
+    }
+
+}
 
 dialog {
     position: fixed;
@@ -412,13 +410,12 @@ dialog {
     height: 100vh;
     /* border: none; */
     background-color: rgba(0, 0, 0, 0.5);
-}
 
-dialog section {
+    section {
         font-size: 1rem;
     }
 
-dialog .dialog__avatar {
+    .dialog__avatar {
         /* top center circle image */
         position: absolute;
         left: 50%;
@@ -434,7 +431,7 @@ dialog .dialog__avatar {
         z-index: 10000;
     }
 
-dialog .dialog__content {
+    .dialog__content {
         position: absolute;
         top: 6rem;
         left: 50%;
@@ -448,26 +445,23 @@ dialog .dialog__content {
         padding: 1rem;
         overflow: auto;
 
-
-    }
-
-dialog .dialog__content .dialog__header {
+        .dialog__header {
             position: relative;
             font-size: 2rem;
             font-weight: 500;
             color: #111;
             padding-bottom: .5rem;
             text-align: center;
-        }
 
-dialog .dialog__content .dialog__header .dialog__title {
+            .dialog__title {
                 font-family: 'HunInn', sans-serif;
                 font-size: 2rem;
                 font-weight: 500;
                 color: #111;
             }
 
-dialog .dialog__content .dialog__header .dialog__close {
+
+            .dialog__close {
                 cursor: pointer;
                 position: absolute;
                 top: 0;
@@ -479,12 +473,17 @@ dialog .dialog__content .dialog__header .dialog__close {
                 color: #111;
                 cursor: pointer;
             }
+        }
 
-dialog .dialog__content .dialog__description {
+        .dialog__description {
             font-size: 1rem;
             font-weight: 300;
             color: #111;
         }
+
+
+    }
+}
 
 .signup-btn {
     
@@ -503,13 +502,13 @@ dialog .dialog__content .dialog__description {
     transition: all 0.3s ease-in-out;
 
     animation: signup-btn .5s ease-in-out infinite alternate;
-}
 
-.signup-btn:hover {
+    &:hover {
         transform: scale(1.1);
         box-shadow: 0 0 2rem rgba(0, 0, 0, 0.4);
         animation: none;
     }
+}
 
 @keyframes signup-btn {
     0% {
