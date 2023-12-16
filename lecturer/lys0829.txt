@@ -1,0 +1,79 @@
+
+
+## 教學經驗：
+
+- 交大網路安全策進會社課講師 Binary Exploitation (2019/12/03)
+- 交大網路安全策進會社課講師 Binary Exploitation (Format String Attack) (2020/03/31)
+- 交大網路安全策進會社課講師 Binary Exploitation (ROP) (2020/04/07)
+- 交大網路安全策進會社課講師 Binary Exploitation (2020/12/01)
+- 交大網路安全策進會社課講師 Binary Exploitation (2021/04/19)
+- 教育體系資安檢測技術服務交流分享-攻防演練經驗分享 (2021/04/23)
+- 教育部資安人才培育計畫資安暑訓營南區 Pwn 講師 (2020)
+- 台灣好厲駭 ROP 課程講師 (2023/12/11、18)
+- 交大資工網路規劃與管理實務課程助教 (2020~2021)
+- SITCON 2020 講者 - 爆肝為高中生舉辦程式競賽是不是吃錯藥了呢
+- SITCON 2021 講者 - 關於 CTF 的那些事
+- HITCON 2022 講者 - 當健保卡元件成為駭客的任意門
+- HITCON 2023 - Firewall is on fire: Hacking the Juniper Firewall
+- AIS3 2022 軟體安全助教
+- AIS3 2023 軟體安全助教
+
+## 出題經驗：
+
+- AIS3 2021 Pre-Exam 出題
+- BambooFox CTF 2021 出題
+- HITCON Education Defense 教育資安攻防大賽出題 (2021/10/27)
+- TSJ CTF 2022 出題
+- AIS3 2022 Pre-Exam 出題
+- HITCON CTF 2022 出題
+- AIS3 2022 EOF Final Staff
+- AIS3 2023 Pre-Exam Staff
+- HITCON CTF 2023 Qual Staff
+- HITCON CTF 2023 Final Staff
+
+## 國際競賽經驗：
+
+- 2019 HITCON CTF Final 12 (BalsiFox)
+- DEFCON 2021 CTF Qualifier, 23th (XxTSJxX)
+- Balsn CTF 2021 6th (BambooFox)
+- HITCON CTF 2021 15th (BambooFox)
+- DEFCON 2022 CTF Finalist (Balsn.217@tsj.tw)
+- Balsn CTF 2022 4th (⚔️TSJ⚔️)
+- DEFCON 2023 CTF Final 3rd (TWN48)
+- Balsn CTF 2023 3rd (${cystick})
+
+## 國內競賽經驗：
+
+- 金盾獎 嶄露頭角獎 (2019)
+- HITCON x Balsn Final 3 (2020)
+- 金盾獎 第3名 (2020)
+- SYSTEX 精誠資訊 Red Alert Splunk 分析競賽 第 1 名 (2020)
+- SYSTEX 精誠資訊 Red Alert 紅藍攻防競賽 第 2 名 (2020)
+- 榮耀資戰 一般組 第2名 (2020)
+- AIS3 EOF CTF 第4名 (2019)
+- 金盾獎第一名 (2021)
+- AIS3 EOF CTF 第4名、腳本小子 (2021)
+- 金盾獎第一名 (2022)
+- 金盾獎第一名 (2023)
+- 全國技能競賽 網路安全職類 中區分區賽 第一名 (2023)
+- 全國技能競賽 網路安全職類 全國賽 第一名 (2023)
+- 47th worldskills 網路安全 國手 (2024)
+
+## 證照：
+
+- CEH
+
+## 漏洞回報：
+- CVE-2021-45918: NHI’s health insurance web service component – Heap-based Buffer Overflow
+- CVE-2023-36844: A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series allows an unauthenticated, network-based attacker to control certain, important environment variables.
+- CVE-2023-36845: A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to control an important environment variable.
+- CVE-2023-36846: A Missing Authentication for Critical Function vulnerability in Juniper Networks Junos OS on SRX Series allows an unauthenticated, network-based attacker to cause limited impact to the file system integrity.
+- CVE-2023-36847: A Missing Authentication for Critical Function vulnerability in Juniper Networks Junos OS on EX Series allows an unauthenticated, network-based attacker to cause limited impact to the file system integrity.
+## 學歷：
+- 國立台南第一高級中學 畢業
+- 國立交通大學 資訊工程學系 畢業
+- 國立交通大學 網路工程研究所
+## 工作經驗：
+- 交大資工系資訊中心助教 (2020/03~Present)
+- 奧義智慧科技實習 (2020/10~2022/08)
+- DEVCORE 實習 (2023/03~2023/07)

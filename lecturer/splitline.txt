@@ -1,0 +1,70 @@
+
+
+## 教學經驗：
+- 雜項與數位鑑識 - 台南一中教師研習 (2023)
+- 網頁安全 - 台南一中教師研習 (2023)
+- 網頁安全 - SCIST 南臺灣學生資訊社群 (2023)
+- CTF導向網頁安全 - 國防大學資工系訓練課程 (2022)
+- 網頁安全 講師 - 台大、交大、台科三校資訊安全聯合課程 (Spring, 2021/2022/2023)
+- 網頁安全 - 國立臺灣科技大學資訊工程系課程 (Spring, 2022)
+- 網頁安全：以 CVE 為例 - 陽明交大國防資安管理碩士在職專班 (2021)
+- 台科資安社 - 網頁安全、隱寫術、Python 沙箱、數位鑑識 (2018~2021)
+- 黑魔法導論 - 台大開源社 (2019)
+- 資訊安全觀念入門 - SITCON Camp 廣度課程 (2019)
+
+## 研討會發表經驗：
+
+- PyJails in the Wild: Bringing CTF Challenges to the Real World - m0lecon (2023)
+- 用 Pickle 寫程式是否搞錯了什麼？- PyConTW (2023)
+- 我把在網頁框架發現的密碼學漏洞變成 CTF 題了！- HITCON FreeTalk (2022)
+- Pain Pickle：系統化地繞過 Restricted Unpickler - HITCON 年會 (2022)
+- PHP 是世界上最棒的語言，但我做了一個比它更棒的！ - SITCON 年會 (2021)
+
+## 出題經驗：
+
+- HITCON Final 2023 - Attack and Defense (Web)
+- HITCON Quals 2023 - Web, Misc
+- HITCON Quasl 2022 - Web, Misc
+- Balsn CTF 2023 - Web
+- AIS3 EOF Final 2022 - Web, Attack and Defense (Challenge and Infra)
+- AIS3 EOF Final 2021 - Web, Reverse, Misc
+- AIS3 EOF Quals 2022 - Web, Misc
+- AIS3 EOF Quals 2021 - Web, Misc
+- AIS3 Pre-Exam 2022 - Web, Crypto, Misc
+- AIS3 Pre-Exam 2021 - Web, Reverse, Misc
+
+## 國際競賽經驗：
+
+- DEFCON 31 CTF Finals, 3rd (TWN48)
+- DEFCON 30 CTF Finals, Finalist (Balsn.217@TSJ.tw)
+- DEFCON 29 CTF Qualifier, 23th (XxTSJxX)
+- HITCON CTF 2019 Final, Finalist / 9th (10sec)
+- CDDC 2020 (Cyber Defenders Discovery Camp) CTF, 4th
+- SECCON 2023 CTF Qualifier, 2nd (${CyStick})
+- SEKAI-CTF 2023, 4th (${CyStick})
+- Balsn CTF 2023, 3th  (${CyStick})
+- DiceCTF @ HOPE 2022, 1th (XxTSJxX)
+- CrewCTF 2022, 1th (XxTSJxX)
+
+## 國內競賽經驗：
+
+- MyFirstCTF 金質獎 (2017)
+- AIS3 網頁安全組 最佳專題 (2019)
+- HITCON × BALSN CTF - 第 1 名 (2020)
+- SYSTEX 精誠資訊 Red Alert Splunk 分析競賽 第 1 名 (2020)
+- SYSTEX 精誠資訊 Red Alert 紅藍攻防競賽 第 2 名 (2020)
+- 合勤資安大賽 榮耀資戰 一般組 第 2 名 (2020)
+- 資安技能金盾獎 第 3 名 (2020)
+- 資安技能金盾獎 第 2 名 (2021)
+
+## 學歷：
+
+- 碩士 - 國立陽明交通大學 資訊工程與科學研究所 (Sep. 2020 ~ Jun. 2022)
+- 學士 - 國立臺灣科技大學 資訊工程系 (Sep. 2016 ~ Jun. 2020)
+
+## 工作經驗：
+
+- ElectroVolt Pentester (Jun 2023 ~ Present)
+- 國際合作發展基金會 駐巴拉圭助理技師 (Sep, 2022 ~ Jul, 2023)
+- CyCraft Security Researcher Internship (Oct 2020 - Oct 2021)
+- 中央研究院資訊科學所 暑期實習生 (Jul 2019 ~ Aug 2019)

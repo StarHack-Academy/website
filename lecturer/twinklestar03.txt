@@ -1,0 +1,49 @@
+
+## 教學經驗：
+- 中正大學資安社: Reverse-Engineering (Oct-Dec, 2023)
+- 資安院 DEFCON 競賽分享會 (Dec. 2023)
+- 交大網路安全策進社: Reverse-Engineering (Fall Semester, 2023)
+- ISIP 資安深根營隊:  Reverse-Engineering (Jul. 2023)
+- SCIST 2023 課程: Pwnable (Jun. 2023)
+- 交大網路安全策進社: Pwnable (Spring Semester, 2022)
+- 交大網路安全策進社: Game Hacking (Fall Semester, 2022)
+- 交大網路安全策進社:  Reverse-Engineering (Spring & Fall Semester, 2021)
+- SITCON 2021: How to hack CS:GO (Sep. 2021)
+
+## 國際競賽經驗：
+
+- DEFCON 31 CTF Finals, 3rd (TWN48)
+- DEFCON 30 CTF Finals, Finalist (Balsn.217@TSJ.tw)
+- DEFCON 29 CTF Qualifier, 23th (XxTSJxX)
+- Flare-On 9 Finisher#256 (Top 5 in Taiwan)
+- SECCON 2023 CTF Qualifier, 2nd (${CyStick})
+- SEKAI-CTF 2023, 4th (${CyStick})
+- VolgaCTF Qualifier, 9th (XxTSJxX)
+- FIRST Robotic Challenge - Worlds, Finalist (Team#7673)
+- FIRST Robotic Challenge - SBPLI Long Island Regional #1, Individual Excellence
+
+## 國內競賽經驗：
+
+- 資安技能金盾獎 Final, 1st (鄭老師叫我們不要亂取隊名) (Nov. 2023)
+- AEGIS 神盾杯 Final, 1st (好想進決賽) (Nov. 2023)
+- 跨國網路攻防演練 CODE, 1st (Oct. 2023)
+- ETHTaipei Hackathon, Gnosis Gold Award (Apr. 2023)
+- ETHTaipei Hackathon, PSE Winner (Apr. 2023)
+- ETHTaipei Hackathon, Hackathon Ranking #1 (StarVoting) (Apr. 2023)
+- 資安技能金盾獎 Final, 1st (海狗還要比到什麼時候) (Nov. 2022)
+- AIS3 EOF Final, 1st (meow?) (Feb. 2022)
+- 資安技能金盾獎 Final, 1st (我不知道隊名) (Nov. 2021)
+- AIS3 EOF Final, 5th (CTF2NOP) (Feb. 2021)
+- HITCON x Balsn Taiwan CTF, 5th (Brain2NOP) (Dec. 2020)
+- 資安技能金盾獎 Final, 2nc (Ret2NOP) (Nov. 2020)
+- Zyxel 榮耀資戰 Final, 6th (Ret2NOP) (Jul. 2020)
+- AIS3, 軟體安全開發最佳專題 (Jul. 2020)
+- Taiwan International Robotics Tournament - VRC, Tournament Champion
+
+## 學歷：
+- National Yang Ming Chao Tung University, CSIE	(Aug. 2019 - Est. 2025)
+- Heng-Yee Catholic High-School	(Aug. 2016 - Jul. 2019)
+
+## 工作經驗：
+- Intern Security Researcher, CyCraft (Apr.2023 - Present)
+- Teaching Assistant, National Yang Ming Chao Tung University (Dec.2021 - Present)

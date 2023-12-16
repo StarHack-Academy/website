@@ -1,0 +1,108 @@
+
+## 教學經驗：
+- 台灣好厲駭培訓課程: Web 安全漫談 (Oct.22, 2023)
+- 台灣好厲駭培訓課程: Web 安全漫談 (May, 2022)
+- AIS3 2022: WhiteBox Security (Jul. 27, 2022)
+- HITCON Training 2022: Red Teaming: Initial Access (Jul. 24, 2022)
+- 交大網路安全策進會社群論壇: 猴子也能懂的 Bug Bounty 入門指南 (Nov. 23, 2022)
+- 金門資安社: Web Security 入門、初階、中階 (Dec. 5,12,26 2021)
+- HITCON Training 2021: Advanced Web Exploitation and Mitigation (Nov. 15, 2021)
+- 台科資安社: Web Security (2020)
+- 逢甲黑客社: Web 進階 (2019)
+- ISIP Summer Camp: Advanced Web Security (2019)
+- ISIP Summer Camp: Advanced Web Security (2019)
+- 台大、交大、台科三校資訊安全聯合課程: Web Security (2019)
+- 台大、交大、台科三校資訊安全聯合課程: Web Security (2018)
+- 台科資安社: Web Security (2018)
+- ISIP Summer Camp: Web Security (2018)
+- ISIP Winter Camp: Web Security (2018)
+- ISIP Hacking Weekend: Web Security (2018)
+## 出題經驗：
+
+- MyFirstCTF 2018 出題
+- AIS3 Pre-Exam 2018 出題
+- AIS3 Pre-Exam 2019 出題
+- AIS3 EOF Quals 2019 出題
+- HTICON CTF Final 2023 出題
+- Balsn CTF 2019 出題
+- Balsn CTF 2020 出題
+- Balsn CTF 2021 出題
+- Balsn CTF 2023 出題
+- Balsn 經典賽 2020 出題
+- EDU-CTF 2018 出題
+- CGGC網路守護者挑戰賽 2023 出題
+
+## 國際競賽經驗：
+
+- DEFCON 31 CTF Finals, 3rd place (TWN48)
+- DEFCON 30 CTF Finals, 9th place (Balsn.217@TSJ.tw)
+- DEFCON 29 CTF Finals, 5th place (HITCON⚔Balsn)
+- DEFCON 28 CTF Finals, 3rd place (HITCON⚔Balsn)
+- DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)
+- DEFCON 26 CTF Finals, 12th place (BFS)
+- HITCON CTF Finals 2021, 2nd place (Balsn)
+- HITCON CTF Finals 2020, 3rd place (Balsn)
+- HITCON CTF Finals 2019, 7th place (Balsn)
+- HITCON CTF Finals 2018, 3rd place (BFKinesiS)
+- HITCON CTF Finals 2017, 12th place (DoubleSigma)
+- Google CTF Finals 2019, 7th place (Balsn)
+- WCTF 2020, 1st place (Balsn)
+- RealWorld CTF Finals 2019, 4th place (Balsn)
+- 0CTF Finals 2021, 3rd place (Balsn)
+- Plaid CTF 2021, 4th place (Balsn)
+- Plaid CTF 2019, 4th place (Balsn)
+- Facebook CTF 2019, 2nd place (Balsn)
+- TrendMicro CTF Finals 2019, 3rd place (Balsn)
+- Dragon CTF 2021, 1st place (Balsn)
+- DefCamp CTF Finals, 5th place (DoubleSigma)
+
+## 國內競賽經驗：
+
+- AIS3 EOF CTF 2019, 1st place
+- AIS3 Final CTF 2018, 3rd place
+- AEGIS Finals, 3rd place 
+- 民生公共物聯網漏洞挖掘競賽 2019, 1st place
+
+## 證照：
+- Offensive Security Web Expert (OSWE)
+
+## 漏洞回報：
+
+- CVE-2023-23356 - RCE, QNAP command injection
+- CVE-2023-23357 - XSS, QNAP cross-site scripting
+- CVE-2023-23354 - XSS, QNAP cross-site scripting
+- CVE-2023-32753 - RCE, OMICARD EDM arbitrary file upload
+- CVE-2023-32752 - RCE, L7 Networks arbitrary file upload
+- CVE-2022-39036 - RCE, Flowring Agentflow BPM arbitrary file upload
+- CVE-2022-39037 - Path traversal, Flowring Agentflow BPM arbitrary file read
+- CVE-2022-39038 - BAC, Flowring Agentflow BPM broken access control
+- CVE-2019-7191 - Improper input validation, QNAP improper input validation
+- CVE-2019-7190 - XML Injection, QNAP XML Injection
+- CVE-2019-7189 - Improper input validation, QNAP improper input validation
+- CVE-2018-0729 - RCE, QNAP command injection on Musicstation
+- 台灣電力公司 Bug Bounty - Remote Code Execution / Arbitrary File Read / SQL Injection / Broken Access Control / Server Side - Request Forgery
+- Tesla Bug Bounty - Information Leakage
+- Line Bug Bounty - Insecure direct object references / Server Side Request Forgery / Information Leakage
+- BitBucket Bug Bounty - Post-auth RCE
+- Facebook Bug Bounty - Client-side DoS
+- Etoro Bug Bounty - Server Side Request Forgery (duplicated)
+- Dell Bug Bounty - Cross-site scripting
+- VMWare Bug Bounty - Cross-site scripting
+- Starbucks Bug Bounty - Cross-site scripting
+- Rockstargames Bug Bounty - Cross-site scripting
+- Acronis Bug Bounty - Cross-site scripting
+- Bol.com Bug Bounty - Cross-site scripting
+- Starleaf Bug Bounty - Cross-site scripting
+- Dyson Bug Bounty - Cross-site scripting (duplicated)
+- Max Exchange Bug Bounty - Business Logic Flaw
+- Bitopro Exchange Bug Bounty - Business Logic Flaw
+- Western Digital PR4100 (Pwn2Own) - Pre-auth RCE
+
+## 學歷：
+- M. S., Graduate Degree Program of Electrical Engineering, NTU	(Sep. 2017 - Jul. 2019)
+- Bachelor of Science, in Computer Science, NCU	(Sep. 2013 - Jun. 2017)
+## 工作經驗：
+- CEO, 30cm Co., Ltd. (May. 2023 - Present)
+- Red Team Specialist, DEVCORE (Jan. 2020 - May. 2023)
+- Part-time MIS, Hakka Department, NCU (2016 - 2017)
+- Part-time MIS, Computer Center, NCU (2013 - 2016)
