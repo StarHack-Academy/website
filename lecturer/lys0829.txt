@@ -37,7 +37,7 @@
 - DEFCON 2021 CTF Qualifier, 23th (XxTSJxX)
 - Balsn CTF 2021 6th (BambooFox)
 - HITCON CTF 2021 15th (BambooFox)
-- DEFCON 2022 CTF Finalist (Balsn.217@tsj.tw)
+- DEFCON 2022 CTF Finalist (Balsn.217\@tsj.tw)
 - Balsn CTF 2022 4th (⚔️TSJ⚔️)
 - DEFCON 2023 CTF Final 3rd (TWN48)
 - Balsn CTF 2023 3rd (${cystick})

@@ -9,7 +9,7 @@ Not publish due to Non-disclosure Agreement
 - VolgaCTF Final, 13th place (BambooFox) (2018)
 - DEFCON 26 CTF Finals, 12th place (BFS) (2018)
 - DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS) (2019)
-- DEFCON 30 CTF Finals, 9th place (Balsn.217@TSJ.tw) (2022)
+- DEFCON 30 CTF Finals, 9th place (Balsn.217\@TSJ.tw) (2022)
 - DEFCON 31 CTF Finals, 3rd place (TWN48) (2023)
 - HITCON CTF Final, 3rd place (BFKinesiS) (2018)
 - HITCON CTF Final, 12th place (BalsiFox) (2019)

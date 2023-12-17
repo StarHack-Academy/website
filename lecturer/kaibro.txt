@@ -35,7 +35,7 @@
 ## 國際競賽經驗：
 
 - DEFCON 31 CTF Finals, 3rd place (TWN48)
-- DEFCON 30 CTF Finals, 9th place (Balsn.217@TSJ.tw)
+- DEFCON 30 CTF Finals, 9th place (Balsn.217\@TSJ.tw)
 - DEFCON 29 CTF Finals, 5th place (HITCON⚔Balsn)
 - DEFCON 28 CTF Finals, 3rd place (HITCON⚔Balsn)
 - DEFCON 27 CTF Finals, 2nd place (HITCON⚔BFKinesiS)

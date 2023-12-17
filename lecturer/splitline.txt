@@ -36,14 +36,14 @@
 ## 國際競賽經驗：
 
 - DEFCON 31 CTF Finals, 3rd (TWN48)
-- DEFCON 30 CTF Finals, Finalist (Balsn.217@TSJ.tw)
+- DEFCON 30 CTF Finals, Finalist (Balsn.217\@TSJ.tw)
 - DEFCON 29 CTF Qualifier, 23th (XxTSJxX)
 - HITCON CTF 2019 Final, Finalist / 9th (10sec)
 - CDDC 2020 (Cyber Defenders Discovery Camp) CTF, 4th
 - SECCON 2023 CTF Qualifier, 2nd (${CyStick})
 - SEKAI-CTF 2023, 4th (${CyStick})
 - Balsn CTF 2023, 3th  (${CyStick})
-- DiceCTF @ HOPE 2022, 1th (XxTSJxX)
+- DiceCTF \@ HOPE 2022, 1th (XxTSJxX)
 - CrewCTF 2022, 1th (XxTSJxX)
 
 ## 國內競賽經驗：

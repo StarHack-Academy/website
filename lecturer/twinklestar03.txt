@@ -13,7 +13,7 @@
 ## 國際競賽經驗：
 
 - DEFCON 31 CTF Finals, 3rd (TWN48)
-- DEFCON 30 CTF Finals, Finalist (Balsn.217@TSJ.tw)
+- DEFCON 30 CTF Finals, Finalist (Balsn.217\@TSJ.tw)
 - DEFCON 29 CTF Qualifier, 23th (XxTSJxX)
 - Flare-On 9 Finisher#256 (Top 5 in Taiwan)
 - SECCON 2023 CTF Qualifier, 2nd (${CyStick})
