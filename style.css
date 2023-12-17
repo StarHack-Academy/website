@@ -20,21 +20,21 @@
 	bottom: 0.25rem;
     z-index:999;
 }
-/* set arrow styles */
+
 .arrow path {
 	stroke: #e74c3c;
 	stroke-width: 2px;
-	fill: transparent;	
+	fill: transparent;
 	animation: down 2s infinite;
 }
-/* arrow keyframe animation */
+
 @keyframes down{
 0% { opacity:0 }
 25% { opacity:1 }
 75% { opacity:0 }
 100% { opacity:0 }
 }
-/* arrow animation delay */
+
 .arrow path.a1{	animation-delay:-1s; }
 .arrow path.a2{	animation-delay:-.5s; }
 .arrow path.a3{	animation-delay:0s; }
@@ -441,6 +441,12 @@ dialog {
 }
 
 dialog section {
+    position: absolute;
+    width: auto;
+    height: calc(100% - 140px);
+    overflow-y: auto;
+    margin: .5rem 1rem 1rem 1rem;
+    padding: 0 1rem 0 0;
         font-size: 1rem;
     }
 
@@ -473,12 +479,12 @@ dialog .dialog__content {
         border-radius: 1rem;
         padding: 1rem;
         overflow: auto;
-
-
-    }
+}
 
 dialog .dialog__content .dialog__header {
-            position: relative;
+            position: sticky;
+            right: 0;
+            top: 2rem;
             font-size: 2rem;
             font-weight: 500;
             color: #111;
