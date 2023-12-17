@@ -183,14 +183,14 @@
     </section>
 
 
-    <dialog id="dialog">
+    <dialog id="dialog" onclick="event.target==this && this.close()">
         <img class="dialog__avatar" src="" alt="avatar">
         <div class="dialog__content">
             <div class="dialog__header">
                 <span class="dialog__close" href="javascript:;">&times;</span>
                 <h2 class="dialog__title"></h2>
             </div>
-            <section></section>
+            <section class="dialog__section"></section>
         </div>
     </dialog>
 
