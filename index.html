@@ -178,15 +178,6 @@
         </div>
     </section>
 
-    <section class="content" id="signup">
-        <div class="wrap">
-            <iframe
-                src="https://docs.google.com/forms/d/e/1FAIpQLSdQOIgyNg-oY4C76onlBBuO2iRHLYqLgewC52zSXgOS452i8w/viewform?embedded=true"
-                style="width: 100%; height: 640px;;" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-        </div>
-    </section>
-
-
     <dialog id="dialog" onclick="event.target==this && this.close()">
         <img class="dialog__avatar" src="" alt="avatar">
         <div class="dialog__content">
@@ -235,9 +226,7 @@
         });
 
         document.querySelector(".signup-btn").addEventListener("click", function () {
-            document.querySelector("#signup").scrollIntoView({
-                behavior: "smooth"
-            });
+            window.open('https://forms.gle/rxtT8VG5k8tpAYkc6')
         });
     </script>
 </body>
