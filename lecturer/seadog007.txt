@@ -47,6 +47,7 @@ Not publish due to Non-disclosure Agreement
 - 跨國網路攻防演練 Cyber Offensive and Defensive Exercise (CODE) 2023 第 1 名 (2023)
 - 神盾杯 第 1 名 (2023)
 - 資安技能金盾獎 第 1 名 (2023)
+- 國研院 CGGC 網路守護者挑戰賽 第 1 名 (2023)
 
 ## 漏洞回報：
 
