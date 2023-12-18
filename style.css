@@ -194,7 +194,6 @@ section.content .wrap.scroll {
 section.content .wrap.scroll.owo {
     display: flex;
     flex-direction: row;
-    gap: 48px;
     overflow-x: scroll;
     white-space: nowrap;
 }
@@ -624,6 +623,7 @@ dialog .dialog__content .dialog__description {
         min-width: 200px;
         width: 200px;
         cursor: pointer;
+        margin: 1rem; 
     }
 
     .lecturer-card:hover {
