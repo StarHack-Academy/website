@@ -195,7 +195,6 @@ section.content .wrap.scroll.owo {
     display: flex;
     flex-direction: row;
     gap: 48px;
-    margin: 16px 128px;
     overflow-x: scroll;
     white-space: nowrap;
 }
@@ -222,7 +221,7 @@ section.content .lecturer-card:last-child {
 @media screen and (max-width: 768px) {
 
 section.content .wrap {
-            padding: 1rem 2rem;
+        padding: 1rem 2rem;
     }
 
     section.content .wrap.scroll.owo {
