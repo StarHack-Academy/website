@@ -191,6 +191,13 @@ section.content .wrap.scroll {
             scrollbar-width: none;
         }
 
+section.content .wrap.scroll.owo {
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+    margin: 16px 128px;
+}
+
 section.content .wrap .title {
             font-family: 'HunInn', sans-serif;
             font-size: 2rem;
@@ -205,7 +212,11 @@ section.content .wrap .title {
 @media screen and (max-width: 768px) {
 
 section.content .wrap {
-            padding: 1rem 2rem
+            padding: 1rem 2rem;
+    }
+
+    section.content .wrap.scroll.owo {
+        margin: 1rem 2rem;
     }
         }
 
@@ -592,4 +603,90 @@ dialog .dialog__content .dialog__description {
     .footer .row a i{
     margin:0% 3%;
     }
+    }
+
+    .lecturer-card {
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        align-items: center;
+        text-align: center;
+        background-color: #fff;
+        border-radius: 0.5rem;
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease-in-out;
+
+        min-width: 200px;
+        width: 200px;
+        cursor: pointer;
+    }
+
+    .lecturer-card:hover {
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+    }
+    
+    .lecturer-card .lecturer-card__img {
+        width: 200px;
+        height: 200px;
+        background-color: #eee;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        overflow: hidden;
+    }
+
+    .lecturer-card .lecturer-card__img img {
+        object-fit: cover;
+    }
+
+    .lecturer-card .lecturer-card__body {
+        flex: 1 1 50%;
+        display: flex;
+        flex-direction: column;
+
+        box-sizing: border-box;
+
+        font-family: 'HunInn', sans-serif;
+
+        width: 100%;
+        height: 100%;
+        min-width: 0;
+
+        padding: 16px;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__title {
+        font-size: 1.5rem;
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: .75rem;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__description {
+        font-size: 1rem;
+        font-weight: 300;
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 10px;
+        color: #111;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__link {
+        border-radius: 0.5rem;
+        font-size: 1rem;
+        font-weight: 500;
+        cursor: pointer;
+        
+        text-align: right;
+
+        transition: all 0.3s ease-in-out;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__link {
+        text-decoration: none;
+        color: #5f5f5f;
+    }
+
+    .lecturer-card:hover .lecturer-card__link,
+    .lecturer-card .lecturer-card__body .lecturer-card__link:hover {
+        text-decoration: underline !important;
     }
