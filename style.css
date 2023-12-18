@@ -142,7 +142,7 @@ section.hero {
     }
 
     100% {
-        transform: translate(-5%, -150%) rotate(-15deg) skew(-10deg, 0);
+        transform: translate(0%, -200%) rotate(-15deg) skew(-10deg, 0);
     }
 }
 
