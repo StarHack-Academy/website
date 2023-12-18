@@ -203,31 +203,66 @@
         <div class="wrap" style="text-align: center;">
             <h1 class="title">講師群</h1>
         </div>
-        <div class="wrap scroll" style="padding-top: 1rem;">
-            <div class="lecturer" data-lecturer="kaibro">
-                <img src="/images/kaibro.jpg" alt="teacher">
-                <h2 class="lecturer__name">Kaibro</h2>
-                <p class="lecturer__description">WebSec Researcher</p>
+        <div class="wrap scroll owo">
+            <div class="lecturer-card" data-lecturer="kaibro">
+                <div class="lecturer-card__img">
+                    <img src="/images/kaibro.jpg" alt="teacher">
+                </div>
+                <div class="lecturer-card__body">
+                    <h2 class="lecturer-card__title">Kaibro</h2>
+                    <p class="lecturer-card__description">WebSec Researcher</p>
+                    <div class="lecturer-card__link">
+                        了解更多&gt;
+                    </div>
+                </div>
             </div>
-            <div class="lecturer" data-lecturer="seadog007">
-                <img src="/images/seadog007.jpg" alt="teacher">
-                <h2 class="lecturer__name">seadog007</h2>
-                <p class="lecturer__description">網路安全國手</p>
+            <div class="lecturer-card" data-lecturer="seadog007">
+                <div class="lecturer-card__img">
+                    <img src="/images/seadog007.jpg" alt="teacher">
+                </div>
+                <div class="lecturer-card__body">
+                    <h2 class="lecturer-card__title">seadog007</h2>
+                    <p class="lecturer-card__description">網路安全國手</p>
+                    <div class="lecturer-card__link">
+                        了解更多&gt;
+                    </div>
+                </div>
             </div>
-            <div class="lecturer" data-lecturer="twinklestar03">
-                <img src="/images/twinklestar03.jpg" alt="teacher">
-                <h2 class="lecturer__name">Star03</h2>
-                <p class="lecturer__description">金盾獎三連冠</p>
+            <div class="lecturer-card" data-lecturer="twinklestar03">
+                <div class="lecturer-card__img">
+                    <img src="/images/twinklestar03.jpg" alt="teacher">
+                </div>
+                <div class="lecturer-card__body">
+                    <h2 class="lecturer-card__title">Star03</h2>
+                    <p class="lecturer-card__description">金盾獎三連冠</p>
+                    <div class="lecturer-card__link">
+                        了解更多&gt;
+                    </div>
+                </div>
             </div>
-            <div class="lecturer" data-lecturer="lys0829">
-                <img src="/images/lys0829.jpg" alt="teacher">
-                <h2 class="lecturer__name">lys0829</h2>
-                <p class="lecturer__description">網路安全國手</p>
+            <div class="lecturer-card" data-lecturer="lys0829">
+                <div class="lecturer-card__img">
+                    <img src="/images/lys0829.jpg" alt="teacher">
+                </div>
+                <div class="lecturer-card__body">
+                    <h2 class="lecturer-card__title">lys0829</h2>
+                    <p class="lecturer-card__description">網路安全國手</p>
+                    <div class="lecturer-card__link">
+                        了解更多&gt;
+                    </div>
+                </div>
             </div>
-            <div class="lecturer" data-lecturer="splitline">
-                <img src="/images/splitline.jpg" alt="teacher">
-                <h2 class="lecturer__name">splitline</h2>
-                <p class="lecturer__description">興趣使然的駭客</p>
+            <div class="lecturer-card" data-lecturer="splitline">
+                <div class="lecturer-card__img">
+                    <img src="/images/splitline.jpg" alt="teacher">
+                </div>
+                <div class="lecturer-card__body">
+                    <h2 class="lecturer-card__title">splitline</h2>
+                    <p class="lecturer-card__description">興趣使然的駭客</p>
+                    <div class="lecturer-card__link">
+                        了解更多&gt;
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -262,7 +297,7 @@
 
     <script>
         const dialog = document.querySelector("#dialog");
-        document.querySelectorAll(".lecturer").forEach(function (lecturer) {
+        document.querySelectorAll(".lecturer-card").forEach(function (lecturer) {
             lecturer.addEventListener("click", function () {
                 dialog.querySelector(".dialog__content").scrollTop = 0;
                 dialog.querySelector("section").innerHTML = "";

@@ -172,44 +172,61 @@ section.content:nth-child(odd) {
     }
 
 section.content:nth-child(even) {
-        background-color: #fff;
-    }
+    background-color: #fff;
+}
 
 section.content .wrap {
-        display: inline-block;
-        padding: 0 8rem;
-        margin: 0 auto;
-        width: 100%;
-        max-width: -moz-available;
-        max-width: -webkit-fill-available;
-    }
+    display: inline-block;
+    padding: 0 8rem;
+    margin: 0 auto;
+    width: 100%;
+    max-width: -moz-available;
+    max-width: -webkit-fill-available;
+}
 
 section.content .wrap.scroll {
-            text-align: center;
-            overflow-x: scroll;
-            white-space: nowrap;
-            scrollbar-width: none;
-        }
+    text-align: center;
+    overflow-x: scroll;
+    white-space: nowrap;
+    scrollbar-width: none;
+}
+
+section.content .wrap.scroll.owo {
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
 
 section.content .wrap .title {
-            font-family: 'HunInn', sans-serif;
-            font-size: 2rem;
-            font-weight: 500;
-            color: #111;
+    font-family: 'HunInn', sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #111;
 
-            padding-bottom: .5rem;
-        }
+    padding-bottom: .5rem;
+}
+
+section.content .lecturer-card:first-child {
+    margin-left: auto;
+}
+
+section.content .lecturer-card:last-child {
+    margin-right: auto;
+}
 
 /* meida */
 
 @media screen and (max-width: 768px) {
 
 section.content .wrap {
-            padding: 1rem 2rem
+        padding: 1rem 2rem;
     }
-        }
 
-
+    section.content .wrap.scroll.owo {
+        margin: 1rem 2rem;
+    }
+}
 
 .cards {
     display: grid;
@@ -220,8 +237,6 @@ section.content .wrap {
     padding: 0;
     width: 100%;
 }
-
-
 
 .cards .card {
         cursor: pointer;
@@ -592,4 +607,95 @@ dialog .dialog__content .dialog__description {
     .footer .row a i{
     margin:0% 3%;
     }
+    }
+
+    .lecturer-card {
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        align-items: center;
+        text-align: center;
+        background-color: #fff;
+        border-radius: 0.5rem;
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease-in-out;
+
+        min-width: 200px;
+        width: 200px;
+        cursor: pointer;
+        margin: 1rem; 
+    }
+
+    .lecturer-card:hover {
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+    }
+    
+    .lecturer-card .lecturer-card__img {
+        width: 200px;
+        height: 200px;
+        background-color: #eee;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        overflow: hidden;
+    }
+
+    .lecturer-card .lecturer-card__img img {
+        object-fit: cover;
+    }
+
+    .lecturer-card .lecturer-card__body {
+        flex: 1 1 50%;
+        display: flex;
+        flex-direction: column;
+
+        box-sizing: border-box;
+
+        font-family: 'HunInn', sans-serif;
+
+        width: 100%;
+        height: 100%;
+        min-width: 0;
+
+        padding: 16px;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__title {
+        font-size: 1.5rem;
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: .75rem;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__description {
+        font-size: 1rem;
+        font-weight: 300;
+        margin: 0px;
+        padding: 0px;
+        margin-bottom: 10px;
+        color: #111;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__link {
+        border-radius: 0.5rem;
+        font-size: 1rem;
+        font-weight: 500;
+        cursor: pointer;
+        
+        text-align: right;
+
+        transition: all 0.3s ease-in-out;
+    }
+
+    .lecturer-card .lecturer-card__body .lecturer-card__link {
+        text-decoration: none;
+        color: #5f5f5f;
+        flex-grow: 1;
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+
+    .lecturer-card:hover .lecturer-card__link,
+    .lecturer-card .lecturer-card__body .lecturer-card__link:hover {
+        text-decoration: underline !important;
     }
