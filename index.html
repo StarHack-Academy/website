@@ -323,6 +323,13 @@
         document.querySelector(".signup-btn").addEventListener("click", function () {
             window.open('https://forms.gle/rxtT8VG5k8tpAYkc6')
         });
+
+        document.querySelector(".arrow").addEventListener("click", function () {
+            window.scrollTo({
+                top: window.innerHeight,
+                behavior: "smooth"
+            });
+        });
     </script>
 </body>
 
